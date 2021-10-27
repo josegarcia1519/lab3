@@ -1,0 +1,2 @@
+<p> the internet works with 4 main components:
+client, request, server and response.  A client request information by sending a request, this request is processed by the server and it sends a response back in the form of data.  All this components work under a protocol so it could be standarized.
